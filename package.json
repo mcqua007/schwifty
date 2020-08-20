@@ -1,0 +1,21 @@
+{
+    "name": "cali-color",
+    "displayName": "Cali Color",
+    "description": "Simple theme derived of the colors of california",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.48.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Cali Color Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Cali Color Theme-color-theme.json"
+            }
+        ]
+    }
+}
