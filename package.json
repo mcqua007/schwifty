@@ -1,7 +1,7 @@
 {
-    "name": "cali-color",
-    "displayName": "Cali Color",
-    "description": "Simple theme derived of the colors of california",
+    "name": "Shwifty",
+    "displayName": "Shwifty",
+    "description": "Shwifty, a simple VS Code theme based on Atom One Dark Theme. As you will find the colors are a bit different. That's it and that's all. Get shwifty!",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.48.0"
@@ -10,12 +10,10 @@
         "Themes"
     ],
     "contributes": {
-        "themes": [
-            {
-                "label": "Cali Color Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Cali Color Theme-color-theme.json"
-            }
-        ]
+        "themes": [{
+            "label": "Shwifty One Dark Theme",
+            "uiTheme": "vs-dark",
+            "path": "./themes/shwifty-theme.json"
+        }]
     }
 }
