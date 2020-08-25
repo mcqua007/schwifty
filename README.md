@@ -17,6 +17,8 @@ This is schwifty a theme based on Atom One Dark. Get Schwifty! This Theme is sti
 
 ![ScreenShot](/images/html.png)
 
+ without bracket matching:
+ 
 ![ScreenShot](/images/import.png)
 
 ![ScreenShot](/images/promises.png)
