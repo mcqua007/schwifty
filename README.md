@@ -1,6 +1,6 @@
 ## Schwifty
 
-This is schwifty a theme based on Atom One DarK. Get Schwifty! This Theme is still in its infancy and will still be growing and changing. It should work well for most langauges as I refered to Atom One Dark while creating this version.
+This is schwifty a theme based on Atom One Dark. Get Schwifty! This Theme is still in its infancy and will still be growing and changing. It should work well for most langauges as I refered to Atom One Dark while creating this version.
 
 ## Screenshots
 
