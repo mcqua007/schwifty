@@ -4,7 +4,7 @@ This is Shwifty a theme based on Atom One DarK. Get Shwifty! This Theme is still
 
 ## Screenshots
 
-![ScreenShot](/images/shwifty-main-thumbnail.png)
+![ScreenShot](/images/main-thumbnail.png)
 
 ![ScreenShot](/images/html-thumbnail.jpg)
 
