@@ -2,13 +2,22 @@
 
 This is schwifty a theme based on Atom One Dark. Get Schwifty! This Theme is still in its infancy and will still be growing and changing. It should work well for most langauges as I refered to Atom One Dark while creating this version.
 
+# Installation
+
+1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
+2. Search for `Schwifty` - find the one by **decrypteddesign** - there is one other so make sure you have the right one!
+3. Click **Install** to install it.
+4. Click **Reload** to reload the your editor
+5. Code > Preferences > Color Theme > **Schwifty**
+6. Optional: Use the recommended settings below for best experience
+
 ## Screenshots
 
 ![ScreenShot](/images/main.png)
 
 ![ScreenShot](/images/html.png)
 
-![ScreenShot](/images/imports.jpg)
+![ScreenShot](/images/import.png)
 
 ![ScreenShot](/images/promises.png)
 
@@ -21,6 +30,6 @@ Then paste this in your `settings.json` to have the colors match the Schwifty Th
 
 Then save, and restart VS code to get matching brackets like below:
 
-![ScreenShot](/images/bracket-matching-thumbnail.jpg)
+![ScreenShot](/images/brackets.png)
 
 
