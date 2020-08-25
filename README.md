@@ -6,11 +6,11 @@ This is Shwifty a theme based on Atom One DarK. Get Shwifty! This Theme is still
 
 ![ScreenShot](/images/main.png)
 
-![ScreenShot](/images/html-thumbnail.jpg)
+![ScreenShot](/images/html.jpg)
 
-![ScreenShot](/images/imports-thumbnail.jpg)
+![ScreenShot](/images/imports.jpg)
 
-![ScreenShot](/images/promises-thumbnail.jpg)
+![ScreenShot](/images/promises.jpg)
 
 ## Setup Matching Brackets
 
