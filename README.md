@@ -10,6 +10,8 @@ This is Shwifty a theme based on Atom One DarK. Get Shwifty! This Theme is still
 
 ![ScreenShot](/images/imports-thumbnail.jpg)
 
+![ScreenShot](/images/promises-thumbnail.jpg)
+
 ## Setup Matching Brackets
 
 Use the VS code Extenstion 'Bracket Pair Colorizer 2', for matching your brackets. 
