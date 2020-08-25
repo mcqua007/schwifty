@@ -1,13 +1,13 @@
 {
-    "name": "Shwifty",
+    "name": "Schwifty",
     "publisher": "decrypteddesign",
     "repository": {
-        "url": "https://github.com/mcqua007/shwifty",
+        "url": "https://github.com/mcqua007/schwifty",
         "type": "git"
     },
-    "displayName": "Shwifty",
-    "description": "Shwifty, a simple VS Code theme based on Atom One Dark Theme. As you will find the colors are a bit different. That's it and that's all. Get shwifty!",
-    "version": "0.0.1",
+    "displayName": "Schwifty",
+    "description": "Schwifty, a simple VS Code theme based on Atom One Dark Theme. As you will find the colors are a bit different. That's it and that's all. Get schwifty!",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.48.0"
     },
@@ -16,9 +16,9 @@
     ],
     "contributes": {
         "themes": [{
-            "label": "Shwifty One Dark Theme",
+            "label": "Schwifty One Dark Theme",
             "uiTheme": "vs-dark",
-            "path": "./themes/shwifty-theme.json"
+            "path": "./themes/schwifty-theme.json"
         }]
     }
 }
