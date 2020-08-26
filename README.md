@@ -34,4 +34,6 @@ Then save, and restart VS code to get matching brackets like below:
 
 ![ScreenShot](/images/brackets.png)
 
+This guy gets it
+
 ![ScreenShot](/images/rick-gets-schwifty.jpg)
