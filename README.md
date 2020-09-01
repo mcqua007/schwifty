@@ -35,7 +35,7 @@ Then save, and restart VS code to get matching brackets like below:
 ![ScreenShot](/images/brackets.png)
 
 ### What Font am I using ?
- I am currenlty using [Dank Mono](https://dank.sh/) patched w/ [Fira Code's](https://github.com/tonsky/FiraCode) Ligatures. I patched these two together with [Ligaturizer](https://github.com/ToxicFrog/Ligaturizer). 
+ I am currenlty using [Dank Mono](https://dank.sh/) patched w/ [Fira Code's](https://github.com/tonsky/FiraCode) Ligatures. I patched these two together with [Ligaturizer](https://github.com/ToxicFrog/Ligaturizer). *Note that in the images above the font is only Dank Mono with its orginal ligatures.
  
  [Operator Mono](https://www.typography.com/fonts/operator/styles/operatormono) is another great font (though expensive) that you can expand with [Fira Code's](https://github.com/tonsky/FiraCode) ligatures using the tool above or I used [operator-mono-lig](https://github.com/kiliman/operator-mono-lig). 
  
