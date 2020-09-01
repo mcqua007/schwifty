@@ -34,16 +34,31 @@ Then save, and restart VS code to get matching brackets like below:
 
 ![ScreenShot](/images/brackets.png)
 
-### What Font am I using ?
- I am currenlty using [Dank Mono](https://dank.sh/) patched w/ [Fira Code's](https://github.com/tonsky/FiraCode) Ligatures. I patched these two together with [Ligaturizer](https://github.com/ToxicFrog/Ligaturizer). *Note that in the images above the font is only Dank Mono with its orginal ligatures.
+## What Font am I using ?
+
  
- [Operator Mono](https://www.typography.com/fonts/operator/styles/operatormono) is another great font (though expensive) that you can expand with [Fira Code's](https://github.com/tonsky/FiraCode) ligatures using the tool above or I used [operator-mono-lig](https://github.com/kiliman/operator-mono-lig). 
+ I am currenlty using [Dank Mono](https://dank.sh/) patched w/ [Fira Code's](https://github.com/tonsky/FiraCode) Ligatures. I patched these two together with [Ligaturizer](https://github.com/ToxicFrog/Ligaturizer). *Note that in the images above the font is only Dank Mono with its orginal ligatures. Below I have listed some alternatives to the above font and some other cool coding fonts.
+
+ - **Paid Alternatives** (_*I am not affilated with any of the above fonts or companies._ )
+    1. [Operator Mono](https://www.typography.com/fonts/operator/styles/operatormono) is another great font (though expensive) that you can expand with [Fira Code's](https://github.com/tonsky/FiraCode) ligatures using the tool above or I used [operator-mono-lig](https://github.com/kiliman/operator-mono-lig). 
  
- Another decent font but not as good as the other two in my opinion is [Cartograph](https://connary.com/cartograph.html I found a site that sells single variants of it [here](https://www.myfonts.com/fonts/connary-fagen/cartograph-cf/).
+    2. [Cartograph](https://connary.com/cartograph.html) is another decent font. I found a site that sells single variants of it [here](https://www.myfonts.com/fonts/connary-fagen/cartograph-cf/).
  
- _*I am not affilated with any of the above fonts or companies._ 
+      
  
- A free version would be to use a patcher to path a italic font with Fira Code. There is a few github projects that combine Fire Code with [FlottFlott](https://github.com/kosimst/FiraFlott) and [Pacifco](https://github.com/kosimst/Firicico). 
+ - **Free Alternatives**
+   1. [Plex Mono](https://fonts.google.com/specimen/IBM+Plex+Mono) has a italics variant. 
+   2. [Ubunut Mono](https://fonts.google.com/specimen/Ubuntu+Mono) has a italics variant.
+   3. [Victor Mono](https://rubjo.github.io/victor-mono/) - has italics-script variant & has it's own ligatures.
+   4. [Fira Code](https://github.com/tonsky/FiraCode) has no italics version. Below Fira Code is mixed with italics-script fonts
+        -  Fira Code with [Pacifco](https://github.com/kosimst/Firicico). 
+        -  Fire Code with [FlottFlott](https://github.com/kosimst/FiraFlott)  
+
+ - **Combined w/ Fira Code Ligatures**: I decided to bake Victor Mono, Plex Mono, and Ubuntu Mono with Fira Code Ligatures for all of you.
+      1. [Plex Mono Liga](https://github.com/mcqua007/schwifty/tree/master/coding-fonts/Plex-Mono-Liga(FIra%20Code%20Ligatures))
+      2. [Ubuntu Mono Liga](https://github.com/mcqua007/schwifty/tree/master/coding-fonts/Ubuntu-Mono-Liga(Fira%20Code%20Ligatures))
+      3. [Victor Mono Liga](https://github.com/mcqua007/schwifty/tree/master/coding-fonts/Victor-Mono-Liga(Fira%20Code%20Ligatures))
+      
  
 
 ### This guy gets it
