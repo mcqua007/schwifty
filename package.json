@@ -12,7 +12,7 @@
     },
     "displayName": "Schwifty",
     "description": "Schwifty, a simple VS Code theme based on Atom One Dark Theme. As you will find the colors are a bit different. That's it and that's all. Get schwifty!",
-    "version": "0.1.3",
+    "version": "0.1.4",
     "engines": {
         "vscode": "^1.48.0"
     },
@@ -24,6 +24,11 @@
             "label": "Schwifty One Dark Theme",
             "uiTheme": "vs-dark",
             "path": "./themes/schwifty-theme.json"
+        },
+        {
+            "label": "Schwifty Variant 2(WIP)",
+            "uiTheme": "vs-dark",
+            "path": "./themes/schwifty-variant-2.json"
         }]
     }
 }
