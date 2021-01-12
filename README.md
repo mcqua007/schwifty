@@ -59,7 +59,11 @@ Then save, and restart VS code to get matching brackets like below:
       2. [Ubuntu Mono Liga](https://github.com/mcqua007/schwifty/tree/master/coding-fonts/Ubuntu-Mono-Liga(Fira%20Code%20Ligatures))
       3. [Victor Mono Liga](https://github.com/mcqua007/schwifty/tree/master/coding-fonts/Victor-Mono-Liga(Fira%20Code%20Ligatures))
       
- 
+ ## Schwifty Purple (Variant) ##
+
+ Below is an image of the variant I created of the orginal Schwifty. You can switch to this variant if you follwo the direction above but select *Schwifty Purple Dark Theme*
+
+ ![Purple](/images/purple-theme-version.jpg)
 
 ### This guy gets it
 
