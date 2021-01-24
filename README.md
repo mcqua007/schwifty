@@ -65,6 +65,8 @@ Then save, and restart VS code to get matching brackets like below:
 
  ![Purple](/images/purple-theme-version.jpg)
 
+ ![Purple php](/images/purple-variant-php.png)
+
 ### This guy gets it
 
 ![ScreenShot](/images/rick-gets-schwifty.jpg)
