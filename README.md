@@ -64,6 +64,8 @@ Then save, and restart VS code to get matching brackets like below:
  Below is an image of the variant I created of the orginal Schwifty. You can switch to this variant if you follwo the direction above but select *Schwifty Purple Dark Theme*
 
  ![Purple](/images/purple-theme-version.jpg)
+ 
+  Shown with php:
 
  ![Purple php](/images/purple-variant-php.png)
 
