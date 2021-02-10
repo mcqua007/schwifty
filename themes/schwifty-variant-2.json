@@ -1000,8 +1000,7 @@
         "meta.template.expression.ts punctuation.definition"
       ],
       "settings": {
-        "foreground": "#9BA2FF
-"
+        "foreground": "#9BA2FF"
       }
     },
     {
@@ -1735,7 +1734,7 @@
       }
     },
     {
-      "name": "[VSCODE-CUSTOM] Schwifty Italic", //used to make italics
+      "name": "[VSCODE-CUSTOM] Schwifty Italic",
       "scope": [
         "comment",
         "entity.other.attribute-name",
@@ -1752,7 +1751,7 @@
       }
     },
     {
-      "name": "[VSCODE-CUSTOM] Schwifty italic reset", //makes not italic
+      "name": "[VSCODE-CUSTOM] Schwifty italic reset",
       "scope": [
         "keyword.operator",
         "keyword.other.type",
