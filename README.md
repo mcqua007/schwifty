@@ -30,6 +30,8 @@ Then paste this in your `settings.json` to have the colors match the Schwifty Th
 
 `"bracket-pair-colorizer-2.colors": ["#f9a571","#56cbf9", "#9ba2ff"]`
 
+For Purple variant: `"bracket-pair-colorizer-2.colors": [ "#F86AA3", "#56cbf9", "#9ba2ff" ],`
+
 Then save, and restart VS code to get matching brackets like below:
 
 ![ScreenShot](/images/brackets.png)
