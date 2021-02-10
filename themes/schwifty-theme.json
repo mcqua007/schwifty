@@ -213,7 +213,8 @@
       "name": "Variable Interpolation",
       "scope": ["variable.interpolation"],
       "settings": {
-        "foreground": "#BE5046"
+        "foreground": "#9BA2FF
+"
       }
     },
     {
@@ -306,7 +307,8 @@
       "name": "Punctuation Section Embedded",
       "scope": ["punctuation.section.embedded"],
       "settings": {
-        "foreground": "#BE5046"
+        "foreground": "#9BA2FF
+"
       }
     },
     {
@@ -648,7 +650,8 @@
       "name": "Source Elixir Regexp Section,source Elixir Regexp String",
       "scope": ["source.elixir regexp.section", "source.elixir regexp.string"],
       "settings": {
-        "foreground": "#BE5046"
+        "foreground": "#9BA2FF
+"
       }
     },
     {
@@ -1000,7 +1003,8 @@
         "meta.template.expression.ts punctuation.definition"
       ],
       "settings": {
-        "foreground": "#BE5046"
+        "foreground": "#9BA2FF
+"
       }
     },
     {
