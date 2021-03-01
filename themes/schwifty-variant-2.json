@@ -178,7 +178,7 @@
       "name": "Constant Character Escape",
       "scope": ["constant.character.escape"],
       "settings": {
-        "foreground": "#56B6C2"
+        "foreground": "#2EC4B6"
       }
     },
     {
@@ -192,14 +192,14 @@
       "name": "Constant Other Color",
       "scope": ["constant.other.color"],
       "settings": {
-        "foreground": "#56B6C2"
+        "foreground": "#2EC4B6"
       }
     },
     {
       "name": "Constant Other Symbol",
       "scope": ["constant.other.symbol"],
       "settings": {
-        "foreground": "#56B6C2"
+        "foreground": "#2EC4B6"
       }
     },
     {
@@ -241,7 +241,7 @@
       "name": "String Regexp",
       "scope": ["string.regexp"],
       "settings": {
-        "foreground": "#56B6C2"
+        "foreground": "#2EC4B6"
       }
     },
     {
@@ -327,14 +327,14 @@
       "name": "Support Type",
       "scope": ["support.type"],
       "settings": {
-        "foreground": "#56B6C2"
+        "foreground": "#2EC4B6"
       }
     },
     {
       "name": "Support Function",
       "scope": ["support.function"],
       "settings": {
-        "foreground": "#56B6C2"
+        "foreground": "#2EC4B6"
       }
     },
     {
@@ -527,7 +527,7 @@
       "name": "Markup Link",
       "scope": ["markup.link"],
       "settings": {
-        "foreground": "#56B6C2"
+        "foreground": "#2EC4B6"
       }
     },
     {
@@ -739,7 +739,7 @@
       "name": "Source Js Keyword Operator",
       "scope": ["source.js keyword.operator"],
       "settings": {
-        "foreground": "#56B6C2"
+        "foreground": "#2EC4B6"
       }
     },
     {
@@ -761,14 +761,14 @@
       "name": "Source Ts Keyword Operator",
       "scope": ["source.ts keyword.operator"],
       "settings": {
-        "foreground": "#56B6C2"
+        "foreground": "#2EC4B6"
       }
     },
     {
       "name": "Source Flow Keyword Operator",
       "scope": ["source.flow keyword.operator"],
       "settings": {
-        "foreground": "#56B6C2"
+        "foreground": "#2EC4B6"
       }
     },
     {
@@ -804,7 +804,7 @@
         "source.json meta.structure.array.json > constant.language.json"
       ],
       "settings": {
-        "foreground": "#56B6C2"
+        "foreground": "#2EC4B6"
       }
     },
     {
@@ -860,7 +860,7 @@
       "name": "Ng Tag",
       "scope": ["ng.tag"],
       "settings": {
-        "foreground": "#56B6C2"
+        "foreground": "#2EC4B6"
       }
     },
     {
@@ -962,14 +962,14 @@
         "punctuation.separator.key-value.tsx"
       ],
       "settings": {
-        "foreground": "#56B6C2"
+        "foreground": "#2EC4B6"
       }
     },
     {
       "name": "[VSCODE-CUSTOM] JS/TS Embedded Operator",
       "scope": ["source.js.embedded.html keyword.operator", "source.ts.embedded.html keyword.operator"],
       "settings": {
-        "foreground": "#56B6C2"
+        "foreground": "#2EC4B6"
       }
     },
     {
@@ -1147,7 +1147,7 @@
       "name": "[VSCODE-CUSTOM] TS Keyword Operator",
       "scope": ["source.ts keyword.operator", "source.tsx keyword.operator"],
       "settings": {
-        "foreground": "#56B6C2"
+        "foreground": "#2EC4B6"
       }
     },
     {
@@ -1172,7 +1172,7 @@
       "name": "[VSCODE-CUSTOM] JSX/TSX Import",
       "scope": ["constant.language.import-export-all.jsx", "constant.language.import-export-all.tsx"],
       "settings": {
-        "foreground": "#56B6C2"
+        "foreground": "#2EC4B6"
       }
     },
     {
@@ -1329,7 +1329,7 @@
       "name": "[VSCODE-CUSTOM] JSON Constants",
       "scope": ["constant.language.json"],
       "settings": {
-        "foreground": "#56B6C2"
+        "foreground": "#2EC4B6"
       }
     },
     {
@@ -1353,7 +1353,7 @@
         "storage.type.property.tsx"
       ],
       "settings": {
-        "foreground": "#56B6C2"
+        "foreground": "#2EC4B6"
       }
     },
     {
@@ -1515,7 +1515,7 @@
       "name": "[VSCODE-CUSTOM] Rust Entity Name Type",
       "scope": "entity.name.type.rust",
       "settings": {
-        "foreground": "#56B6C2"
+        "foreground": "#2EC4B6"
       }
     },
     {
@@ -1536,7 +1536,7 @@
       "name": "[VSCODE-CUSTOM] Rust Storage Type Core",
       "scope": "storage.type.core.rust",
       "settings": {
-        "foreground": "#56B6C2"
+        "foreground": "#2EC4B6"
       }
     },
     {
@@ -1550,7 +1550,7 @@
       "name": "[VSCODE-CUSTOM] Rust Storage Class Std",
       "scope": "storage.class.std.rust",
       "settings": {
-        "foreground": "#56B6C2"
+        "foreground": "#2EC4B6"
       }
     },
     {
