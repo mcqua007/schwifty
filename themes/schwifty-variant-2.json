@@ -320,21 +320,21 @@
       "name": "Support Class",
       "scope": ["support.class"],
       "settings": {
-        "foreground": "#E5C07B"
+        "foreground": "#56CBF9"
       }
     },
     {
       "name": "Support Type",
       "scope": ["support.type"],
       "settings": {
-        "foreground": "#2EC4B6"
+        "foreground": "#56CBF9"
       }
     },
     {
       "name": "Support Function",
       "scope": ["support.function"],
       "settings": {
-        "foreground": "#2EC4B6"
+        "foreground": "#56CBF9"
       }
     },
     {
