@@ -18,8 +18,8 @@ This is schwifty a theme based on Atom One Dark. Get Schwifty!
  
 ![ScreenShot](/images/import.png)
 
-with matching brackets:
-![ScreenShot](/images/regular-close-matching.png)
+
+#### with matching brackets: ####
 
 ![ScreenShot](/images/regular-long.png)
 
@@ -66,11 +66,9 @@ Then save, and restart VS code to get matching brackets like above.
 
  Below is an image of the variant I created of the orginal Schwifty. You can switch to this variant if you follwo the direction above but select *Schwifty Purple Dark Theme*
 
- ![Purple](/images/purple-close-matching.png)
-
  ![Purple](/images/purple-long-matching.png)
  
-  Shown with php:
+  #### Shown with php: ####
 
  ![Purple php](/images/purple-variant-php.png)
 
