@@ -1,6 +1,6 @@
 ## Schwifty
 
-This is schwifty a theme based on Atom One Dark. Get Schwifty! This Theme is still in its infancy and will still be growing and changing. It should work well for most langauges as I refered to Atom One Dark while creating this version.
+This is schwifty a theme based on Atom One Dark. Get Schwifty!
 
 # Installation
 
@@ -13,13 +13,15 @@ This is schwifty a theme based on Atom One Dark. Get Schwifty! This Theme is sti
 
 ## Screenshots
 
-![ScreenShot](/images/main.png)
+![ScreenShot](/images/regular-close.png)
 
-![ScreenShot](/images/html.png)
-
- without bracket matching:
  
 ![ScreenShot](/images/import.png)
+
+with matching brackets:
+![ScreenShot](/images/regular-close-matching.png)
+
+![ScreenShot](/images/regular-long.png)
 
 ![ScreenShot](/images/promises.png)
 
@@ -32,9 +34,8 @@ Then paste this in your `settings.json` to have the colors match the Schwifty Th
 
 For Purple variant: `"bracket-pair-colorizer-2.colors": [ "#F86AA3", "#56cbf9", "#9ba2ff" ],`
 
-Then save, and restart VS code to get matching brackets like below:
+Then save, and restart VS code to get matching brackets like above.
 
-![ScreenShot](/images/brackets.png)
 
 ## What Font am I using ?
 
@@ -65,7 +66,9 @@ Then save, and restart VS code to get matching brackets like below:
 
  Below is an image of the variant I created of the orginal Schwifty. You can switch to this variant if you follwo the direction above but select *Schwifty Purple Dark Theme*
 
- ![Purple](/images/purple-theme-version.jpg)
+ ![Purple](/images/purple-close-matching.png)
+
+ ![Purple](/images/purple-long-matching.png)
  
   Shown with php:
 
