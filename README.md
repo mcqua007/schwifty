@@ -70,7 +70,7 @@ Then save, and restart VS code to get matching brackets like above.
  
   #### Shown with php: ####
 
- ![Purple php](/images/purple-variant-php.png)
+ ![Purple php](/images/purple-variant-php-code-2.jpg)
 
 ### This guy gets it
 
