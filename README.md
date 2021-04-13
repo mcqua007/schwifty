@@ -1,6 +1,6 @@
 ## Schwifty
 
-This is schwifty a theme based on Atom One Dark. Get Schwifty!
+This is **Schwifty One Dark** a syntax theme based on Atom One Dark. A few differences besides the colors is the addition of italics for certain tokens(i.e. HTML classes, functions, etc...). This helps for reading your code and being able to recognize patterns so you can find things quickly. There are also matching bracket colors to add to your settings so you can easily identify matching brackets and parenthesis. To get full use of italics I added some fonts that would suit you as well as baked them with Firacode ligatures so you get clean fonts and ligatures to have the best-looking syntax. Get Schwifty!
 
 # Installation
 
