@@ -5,22 +5,22 @@ This is **Schwifty One Dark** a syntax theme based on Atom One Dark. A few diffe
 # Installation
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
-2. Search for `Schwifty` - find the one by **decrypteddesign** - there is one other so make sure you have the right one!
+2. Search for `Schwifty One Dark` - find the one by **decrypteddesign**
 3. Click **Install** to install it.
 4. Click **Reload** to reload the your editor
-5. Code > Preferences > Color Theme > **Schwifty**
+5. Code > Preferences > Color Theme > **Schwifty One Dark**
 6. Optional: Use the recommended settings below for best experience
 
 ## Screenshots
 
-**Main Theme**
+**Schwifty One Dark**
 ![ScreenShot](/images/regular-close.png)
 
-**Puple Variant**
+**Schwifty Purple One Dark**
 ![ScreenShot](/images/purple-close-matching.png)
 
 
-### Schwifty Main Theme ###
+### Schwifty One Dark ###
 ![ScreenShot](/images/import.png)
 
 
@@ -30,9 +30,9 @@ This is **Schwifty One Dark** a syntax theme based on Atom One Dark. A few diffe
 
 ![ScreenShot](/images/promises.png)
 
- ## Schwifty Purple (Variant) ##
+ ## Schwifty Purple One Dark (Variant) ##
 
- Below is an image of the variant I created of the orginal Schwifty. You can switch to this variant if you follwo the direction above but select *Schwifty Purple Dark Theme*
+ Below is an image of the variant I created of the main Schwifty One Dark theme. You can switch to this variant if you follow the directions above but select *Schwifty Purple One Dark*
 
  ![Purple](/images/purple-long-matching.png)
  
