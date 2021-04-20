@@ -20,7 +20,7 @@ This is **Schwifty One Dark** a syntax theme based on Atom One Dark. A few diffe
 ![ScreenShot](/images/purple-close-matching.png)
 
 
-### Schwifty One Dark ###
+## Schwifty One Dark ##
 ![ScreenShot](/images/import.png)
 
 
