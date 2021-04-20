@@ -1737,7 +1737,8 @@
       "name": "[VSCODE-CUSTOM] Vue Vetur Component",
       "scope": ["support.class.component.html"],
       "settings": {
-        "foreground": "#56CBF9"
+        "foreground": "#F86AA3",
+        "fontStyle": "italic"
       }
     },
     {
