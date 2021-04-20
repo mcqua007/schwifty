@@ -13,17 +13,36 @@ This is **Schwifty One Dark** a syntax theme based on Atom One Dark. A few diffe
 
 ## Screenshots
 
+**Main Theme**
 ![ScreenShot](/images/regular-close.png)
 
- 
+**Puple Variant**
+![ScreenShot](/images/purple-close-matching.png)
+
+
+### Schwifty Main Theme ###
 ![ScreenShot](/images/import.png)
 
 
-#### with matching brackets: ####
+#### With [matching brackets](#setup-matching-brackets) ####
 
 ![ScreenShot](/images/regular-long.png)
 
 ![ScreenShot](/images/promises.png)
+
+ ## Schwifty Purple (Variant) ##
+
+ Below is an image of the variant I created of the orginal Schwifty. You can switch to this variant if you follwo the direction above but select *Schwifty Purple Dark Theme*
+
+ ![Purple](/images/purple-long-matching.png)
+ 
+ #### Shown with php ####
+
+ ![Purple php](/images/purple-variant-php-code-2.jpg)
+
+ #### Components styled when [Vetur Extension](https://marketplace.visualstudio.com/items?itemName=octref.vetur) installed ####
+
+ ![Purple Vetur Component Style](/images/vue-vetur-screenshot.jpg)
 
 ## Setup Matching Brackets
 
@@ -40,7 +59,7 @@ Then save, and restart VS code to get matching brackets like above.
 ## What Font am I using ?
 
  
- I am currenlty using [Dank Mono](https://dank.sh/) patched w/ [Fira Code's](https://github.com/tonsky/FiraCode) Ligatures. I patched these two together with [Ligaturizer](https://github.com/ToxicFrog/Ligaturizer). *Note that in the images above the font is only Dank Mono with its orginal ligatures. Below I have listed some alternatives to the above font and some other cool coding fonts.
+ I am currenlty using [Dank Mono](https://dank.sh/) patched w/ [Fira Code's](https://github.com/tonsky/FiraCode) Ligatures. I patched these two together with [Ligaturizer](https://github.com/ToxicFrog/Ligaturizer). Below I have listed some alternatives to the above font and some other cool coding fonts.
 
  - **Paid Alternatives** (_*I am not affilated with any of the above fonts or companies._ )
     1. [Operator Mono](https://www.typography.com/fonts/operator/styles/operatormono) is another great font (though expensive) that you can expand with [Fira Code's](https://github.com/tonsky/FiraCode) ligatures using the tool above or I used [operator-mono-lig](https://github.com/kiliman/operator-mono-lig). 
@@ -60,18 +79,8 @@ Then save, and restart VS code to get matching brackets like above.
  - **Combined w/ Fira Code Ligatures**: I decided to bake Victor Mono, Plex Mono, and Ubuntu Mono with Fira Code Ligatures for all of you.
       1. [Plex Mono Liga](https://github.com/mcqua007/schwifty/tree/master/coding-fonts/Plex-Mono-Liga(FIra%20Code%20Ligatures))
       2. [Ubuntu Mono Liga](https://github.com/mcqua007/schwifty/tree/master/coding-fonts/Ubuntu-Mono-Liga(Fira%20Code%20Ligatures))
-      3. [Victor Mono Liga](https://github.com/mcqua007/schwifty/tree/master/coding-fonts/Victor-Mono-Liga(Fira%20Code%20Ligatures))
+      3. [Victor Mono Liga](https://github.com/mcqua007/schwifty/tree/master/coding-fonts/Victor-Mono-Liga(Fira%20Code%20Ligatures)) - **My Favorite of the 3**
       
- ## Schwifty Purple (Variant) ##
-
- Below is an image of the variant I created of the orginal Schwifty. You can switch to this variant if you follwo the direction above but select *Schwifty Purple Dark Theme*
-
- ![Purple](/images/purple-long-matching.png)
- 
-  #### Shown with php: ####
-
- ![Purple php](/images/purple-variant-php-code-2.jpg)
-
-### This guy gets it
+ #### This guy gets it ####
 
 ![ScreenShot](/images/rick-gets-schwifty.jpg)
