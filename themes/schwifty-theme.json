@@ -1734,6 +1734,13 @@
       }
     },
     {
+      "name": "[VSCODE-CUSTOM] Vue Vetur Component",
+      "scope": ["support.class.component.html"],
+      "settings": {
+        "foreground": "#282C34"
+      }
+    },
+    {
       "name": "[VSCODE-CUSTOM] Schwifty Italic",
       "scope": [
         "comment",
