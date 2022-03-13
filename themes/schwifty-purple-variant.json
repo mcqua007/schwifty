@@ -1742,6 +1742,14 @@
       }
     },
     {
+      "name": "[VSCODE-CUSTOM] Vue Tailwind Apply",
+      "scope": ["keyword.control.at-rule.apply.tailwind", "meta.at-rule.apply.tailwind"],
+      "settings": {
+        "foreground": "#F86AA3",
+        "fontStyle": "italic"
+      }
+    },
+    {
       "name": "[VSCODE-CUSTOM] Schwifty Italic",
       "scope": [
         "comment",
