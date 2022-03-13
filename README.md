@@ -44,6 +44,8 @@ This is **Schwifty One Dark** a syntax theme based on Atom One Dark. A few diffe
 
  ![Purple Vetur Component Style](/images/vue-vetur-screenshot.jpg)
 
+ #### Taiwind apply - has a different style then CSS @ rules (@media,@import, etc...) to make it more readable 
+![ScreenShot](/images/purple-tailwind-apply.png)
 ## Setup Matching Brackets
 
 Use the VS code Extenstion 'Bracket Pair Colorizer 2', for matching your brackets. 
