@@ -47,9 +47,22 @@ This is **Schwifty One Dark** a syntax theme based on Atom One Dark. A few diffe
  #### Taiwind apply - has a different style then CSS @ rules (@media,@import, etc...) to make it more readable 
 ![ScreenShot](/images/purple-tailwind-apply.png)
 ## Setup Matching Brackets
+This extension used to use Bracket Pair Colorizer extension but VS Code now has it built in nativley,
+with 10,000x the performance than the 3rd party extension. Schwifty now nativley themes your brackets you just need
+to turn on the bracket matcher in your settings by pasting this line: ` "editor.bracketPairColorization.enabled": true,`.
 
-Use the VS code Extenstion 'Bracket Pair Colorizer 2', for matching your brackets. 
-Then paste this in your `settings.json` to have the colors match the Schwifty Theme:
+To override these colors you can paste the following in your settings and change the hex values: 
+```
+  //There are currently up to 6 bracket colors that can be set editorBracketHighlight.foreground1,2...6
+  "workbench.colorCustomizations": {
+     "editorBracketHighlight.foreground1": "#F86AA3",
+     "editorBracketHighlight.foreground2": "#56cbf9",
+     "editorBracketHighlight.foreground3": "#9ba2ff",
+     "editorBracketHighlight.unexpectedBracket.foreground": "#f70582",
+  }
+```
+For those wanting to use the deprecated 'Bracket Pair Colorizer 2' Extension, for matching your brackets. 
+Paste this in your `settings.json` to have the colors match the Schwifty Theme:
 
 `"bracket-pair-colorizer-2.colors": ["#f9a571","#56cbf9", "#9ba2ff"]`
 
