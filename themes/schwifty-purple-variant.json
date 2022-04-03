@@ -1777,6 +1777,14 @@
       }
     },
     {
+      "name": "[VSCODE-CUSTOM] Svelte Component (Svelte for VS Code)",
+      "scope": ["support.class.component.svelte"],
+      "settings": {
+        "foreground": "#F86AA3",
+        "fontStyle": "italic"
+      }
+    },
+    {
       "name": "[VSCODE-CUSTOM] Schwifty Italic",
       "scope": [
         "comment",
