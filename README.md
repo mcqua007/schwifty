@@ -64,6 +64,17 @@ This is **Schwifty One Dark** a syntax theme based on Atom One Dark. A few diffe
 
 **Svelte Each block**
 ![ScreenShot](/images/svelte-each-block.png)
+
+#### Schwifty styles VS Code Terminal
+
+
+**Output from pnpm install**
+![ScreenShot](/images/zsh-terminal-pnpm-install.jpg)
+
+**Output from nuxt dev server**
+![ScreenShot](/images/zsh-terminal-yarn-dev.jpg)
+
+*You can take it a step further and install [Schwifty theme for fish](/terminal/fish_readme.md) so your commands etc...also use schwifty theme
 ## Setup Matching Brackets
 This extension used to use Bracket Pair Colorizer extension but VS Code now has it built in nativley,
 with 10,000x the performance than the 3rd party extension. Schwifty now nativley themes your brackets you just need
