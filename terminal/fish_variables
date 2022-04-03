@@ -1,0 +1,32 @@
+# This file contains fish universal variable definitions.
+# Edited for Schwifty theme
+# VERSION: 3.0
+SETUVAR __fish_init_2_3_0:\x1d
+SETUVAR fish_color_autosuggestion:9BA2FF
+SETUVAR fish_color_cancel:\x2dr
+SETUVAR fish_color_command:2EC4B6
+SETUVAR fish_color_comment:5C6370
+SETUVAR fish_color_cwd:2EC4B6
+SETUVAR fish_color_cwd_root:56CBF9
+SETUVAR fish_color_end:50FA7B
+SETUVAR fish_color_error:F9A571
+SETUVAR fish_color_escape:42b3c2
+SETUVAR fish_color_history_current:\x2d\x2dbold
+SETUVAR fish_color_host:e6e6e6
+SETUVAR fish_color_match:\x2d\x2dbackground\x3dbrblue
+SETUVAR fish_color_normal:e6e6e6
+SETUVAR fish_color_operator:2EC4B6
+SETUVAR fish_color_param:F86AA3
+SETUVAR fish_color_quote:E5C07B
+SETUVAR fish_color_redirection:79d7fc
+SETUVAR fish_color_search_match:bryellow\x1e\x2d\x2dbackground\x3dbrblack
+SETUVAR fish_color_selection:e6e6e6\x1e\x2d\x2dbold\x1e\x2d\x2dbackground\x3dbrblack
+SETUVAR fish_color_status:red
+SETUVAR fish_color_user:9BA2FF
+SETUVAR fish_color_valid_path:\x2d\x2dunderline
+SETUVAR fish_greeting:Welcome\x20to\x20fish\x2c\x20the\x20friendly\x20interactive\x20shell
+SETUVAR fish_key_bindings:fish_default_key_bindings
+SETUVAR fish_pager_color_completion:e6e6e6
+SETUVAR fish_pager_color_description:B3A06D\x1eyellow
+SETUVAR fish_pager_color_prefix:e6e6e6\x1e\x2d\x2dbold\x1e\x2d\x2dunderline
+SETUVAR fish_pager_color_progress:e6e6e6\x1e\x2d\x2dbackground\x3dcyan
