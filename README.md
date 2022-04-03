@@ -53,6 +53,10 @@ This is **Schwifty One Dark** a syntax theme based on Atom One Dark. A few diffe
 
  #### Taiwind apply - has a different style then CSS @ rules (@media,@import, etc...) to make it more readable 
 ![ScreenShot](/images/purple-tailwind-apply.png)
+
+#### Svelte Component Styles (When you have the Svelte for Vs Code extension installed)
+![ScreenShot](/images/svelte-comp-1.png)
+![ScreenShot](/images/svelte-comp-2.png)
 ## Setup Matching Brackets
 This extension used to use Bracket Pair Colorizer extension but VS Code now has it built in nativley,
 with 10,000x the performance than the 3rd party extension. Schwifty now nativley themes your brackets you just need
