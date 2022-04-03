@@ -4,13 +4,20 @@ This is **Schwifty One Dark** a syntax theme based on Atom One Dark. A few diffe
 
 # Installation
 
+##### Install Via VS Code GUI
+
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
 2. Search for `Schwifty One Dark` - find the one by **decrypteddesign**
 3. Click **Install** to install it.
 4. Click **Reload** to reload the your editor
 5. Code > Preferences > Color Theme > **Schwifty One Dark**
 6. Optional: Use the recommended settings below for best experience
-
+ 
+##### Install Using the command line
+1. Download (Schwifty-[version].vsix)[https://github.com/mcqua007/schwifty] from repo
+2. Open terminal and run `code --install-extension [PATH TO]/Schwifty-[version].vsix`
+- *Example of running command from inside the directory containing the Scwhifty `.vsix` package:*
+   `code --install-extension Schwifty-1.40.1.vsix`
 ## Screenshots
 
 **Schwifty One Dark**
