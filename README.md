@@ -65,7 +65,7 @@ This is **Schwifty One Dark** a syntax theme based on Atom One Dark. A few diffe
 **Svelte Each block**
 ![ScreenShot](/images/svelte-each-block.png)
 
-#### Schwifty styles VS Code Terminal
+### Schwifty styles VS Code Terminal
 
 
 **Output from pnpm install**
