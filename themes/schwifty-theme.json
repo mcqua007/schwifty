@@ -1,6 +1,7 @@
 {
-  "author": "smcquaid",
-  "name": "Schwifty",
+  "author": "mcqua007",
+  "name": "Schwifty One Dark",
+  "type": "Dark",
   "colors": {
     "activityBar.background": "#333842",
     "activityBar.foreground": "#D7DAE0",
@@ -308,7 +309,10 @@
     },
     {
       "name": "Punctuation Definition Heading,punctuation Definition Identity",
-      "scope": ["punctuation.definition.heading", "punctuation.definition.identity"],
+      "scope": [
+        "punctuation.definition.heading",
+        "punctuation.definition.identity"
+      ],
       "settings": {
         "foreground": "#56CBF9"
       }
@@ -338,7 +342,11 @@
     },
     {
       "name": "Punctuation Section Method,punctuation Section Class,punctuation Section Inner Class",
-      "scope": ["punctuation.section.method", "punctuation.section.class", "punctuation.section.inner-class"],
+      "scope": [
+        "punctuation.section.method",
+        "punctuation.section.class",
+        "punctuation.section.inner-class"
+      ],
       "settings": {
         "foreground": "#ABB2BF"
       }
@@ -608,7 +616,10 @@
     },
     {
       "name": "Source Css Property Name Support,source Css Property Value Support",
-      "scope": ["source.css property-name.support", "source.css property-value.support"],
+      "scope": [
+        "source.css property-name.support",
+        "source.css property-value.support"
+      ],
       "settings": {
         "foreground": "#ABB2BF"
       }
@@ -633,7 +644,10 @@
     },
     {
       "name": "Source Elixir Variable Definition,source Elixir Variable Anonymous",
-      "scope": ["source.elixir variable.definition", "source.elixir variable.anonymous"],
+      "scope": [
+        "source.elixir variable.definition",
+        "source.elixir variable.anonymous"
+      ],
       "settings": {
         "foreground": "#9BA2FF"
       }
@@ -694,7 +708,11 @@
     },
     {
       "name": "Source Elixir Array,source Elixir Scope,source Elixir Section",
-      "scope": ["source.elixir array", "source.elixir scope", "source.elixir section"],
+      "scope": [
+        "source.elixir array",
+        "source.elixir scope",
+        "source.elixir section"
+      ],
       "settings": {
         "foreground": "#828997"
       }
@@ -800,14 +818,18 @@
     },
     {
       "name": "Source Json Meta Structure Dictionary Json > String Quoted Json",
-      "scope": ["source.json meta.structure.dictionary.json > string.quoted.json"],
+      "scope": [
+        "source.json meta.structure.dictionary.json > string.quoted.json"
+      ],
       "settings": {
         "foreground": "#F86AA3"
       }
     },
     {
       "name": "Source Json Meta Structure Dictionary Json > String Quoted Json > Punctuation String",
-      "scope": ["source.json meta.structure.dictionary.json > string.quoted.json > punctuation.string"],
+      "scope": [
+        "source.json meta.structure.dictionary.json > string.quoted.json > punctuation.string"
+      ],
       "settings": {
         "foreground": "#F86AA3"
       }
@@ -857,7 +879,10 @@
     },
     {
       "name": "Ng Interpolation Function Begin,ng Interpolation Function End",
-      "scope": ["ng.interpolation function.begin", "ng.interpolation function.end"],
+      "scope": [
+        "ng.interpolation function.begin",
+        "ng.interpolation function.end"
+      ],
       "settings": {
         "foreground": "#56CBF9"
       }
@@ -906,7 +931,10 @@
     },
     {
       "name": "Ng Attribute With Value String Begin,ng Attribute With Value String End",
-      "scope": ["ng.attribute-with-value string.begin", "ng.attribute-with-value string.end"],
+      "scope": [
+        "ng.attribute-with-value string.begin",
+        "ng.attribute-with-value string.end"
+      ],
       "settings": {
         "foreground": "#ABB2BF"
       }
@@ -994,14 +1022,21 @@
     },
     {
       "name": "[VSCODE-CUSTOM] JS/TS Embedded Operator",
-      "scope": ["source.js.embedded.html keyword.operator", "source.ts.embedded.html keyword.operator"],
+      "scope": [
+        "source.js.embedded.html keyword.operator",
+        "source.ts.embedded.html keyword.operator"
+      ],
       "settings": {
         "foreground": "#2EC4B6"
       }
     },
     {
       "name": "[VSCODE-CUSTOM] JS/TS Variable Other Readwrite",
-      "scope": ["variable.other.readwrite.js", "variable.other.readwrite.ts", "variable.other.readwrite.tsx"],
+      "scope": [
+        "variable.other.readwrite.js",
+        "variable.other.readwrite.ts",
+        "variable.other.readwrite.tsx"
+      ],
       "settings": {
         "foreground": "#ABB2BF"
       }
@@ -1015,7 +1050,10 @@
     },
     {
       "name": "[VSCODE-CUSTOM] JS/TS Support Variable Property Dom",
-      "scope": ["support.variable.property.dom.js", "support.variable.property.dom.ts"],
+      "scope": [
+        "support.variable.property.dom.js",
+        "support.variable.property.dom.ts"
+      ],
       "settings": {
         "foreground": "#F86AA3"
       }
@@ -1065,14 +1103,22 @@
     },
     {
       "name": "[VSCODE-CUSTOM] JS/TS Variable Property",
-      "scope": ["support.variable.property.js", "support.variable.property.ts", "support.variable.property.tsx"],
+      "scope": [
+        "support.variable.property.js",
+        "support.variable.property.ts",
+        "support.variable.property.tsx"
+      ],
       "settings": {
         "foreground": "#F86AA3"
       }
     },
     {
       "name": "[VSCODE-CUSTOM] JS/TS Default Keyword",
-      "scope": ["keyword.control.default.js", "keyword.control.default.ts", "keyword.control.default.tsx"],
+      "scope": [
+        "keyword.control.default.js",
+        "keyword.control.default.ts",
+        "keyword.control.default.tsx"
+      ],
       "settings": {
         "foreground": "#F86AA3"
       }
@@ -1118,7 +1164,11 @@
     },
     {
       "name": "[VSCODE-CUSTOM] JS/TS Punctuation Accessor",
-      "scope": ["source.js punctuation.accessor", "source.ts punctuation.accessor", "source.tsx punctuation.accessor"],
+      "scope": [
+        "source.js punctuation.accessor",
+        "source.ts punctuation.accessor",
+        "source.tsx punctuation.accessor"
+      ],
       "settings": {
         "foreground": "#ABB2BF"
       }
@@ -1147,7 +1197,11 @@
     },
     {
       "name": "[VSCODE-CUSTOM] JS/TS Support Variables",
-      "scope": ["source.js support.variable", "source.ts support.variable", "source.tsx support.variable"],
+      "scope": [
+        "source.js support.variable",
+        "source.ts support.variable",
+        "source.tsx support.variable"
+      ],
       "settings": {
         "foreground": "#F86AA3"
       }
@@ -1165,7 +1219,11 @@
     },
     {
       "name": "[VSCODE-CUSTOM] JS/TS Keyword New",
-      "scope": ["keyword.operator.new.ts", "keyword.operator.new.j", "keyword.operator.new.tsx"],
+      "scope": [
+        "keyword.operator.new.ts",
+        "keyword.operator.new.j",
+        "keyword.operator.new.tsx"
+      ],
       "settings": {
         "foreground": "#9BA2FF"
       }
@@ -1190,21 +1248,32 @@
     },
     {
       "name": "[VSCODE-CUSTOM] JS/TS Import",
-      "scope": ["constant.language.import-export-all.js", "constant.language.import-export-all.ts"],
+      "scope": [
+        "constant.language.import-export-all.js",
+        "constant.language.import-export-all.ts"
+      ],
       "settings": {
         "foreground": "#F86AA3"
       }
     },
     {
       "name": "[VSCODE-CUSTOM] JSX/TSX Import",
-      "scope": ["constant.language.import-export-all.jsx", "constant.language.import-export-all.tsx"],
+      "scope": [
+        "constant.language.import-export-all.jsx",
+        "constant.language.import-export-all.tsx"
+      ],
       "settings": {
         "foreground": "#2EC4B6"
       }
     },
     {
       "name": "[VSCODE-CUSTOM] JS/TS Keyword Control As",
-      "scope": ["keyword.control.as.js", "keyword.control.as.ts", "keyword.control.as.jsx", "keyword.control.as.tsx"],
+      "scope": [
+        "keyword.control.as.js",
+        "keyword.control.as.ts",
+        "keyword.control.as.jsx",
+        "keyword.control.as.tsx"
+      ],
       "settings": {
         "foreground": "#ABB2BF"
       }
@@ -1706,14 +1775,20 @@
     },
     {
       "name": "[VSCODE-CUSTOM] Markdown Underline Link/Image",
-      "scope": ["markup.underline.link.markdown", "markup.underline.link.image.markdown"],
+      "scope": [
+        "markup.underline.link.markdown",
+        "markup.underline.link.image.markdown"
+      ],
       "settings": {
         "foreground": "#9BA2FF"
       }
     },
     {
       "name": "[VSCODE-CUSTOM] Markdown Link Title/Description",
-      "scope": ["string.other.link.title.markdown", "string.other.link.description.markdown"],
+      "scope": [
+        "string.other.link.title.markdown",
+        "string.other.link.description.markdown"
+      ],
       "settings": {
         "foreground": "#56CBF9"
       }
@@ -1786,7 +1861,12 @@
     },
     {
       "name": "[VSCODE-CUSTOM] React Component",
-      "scope": ["support.class.component.js.jsx", "support.class.component.ts.tsx", "entity.name.tag.js.jsx", "entity.name.tag.ts.tsx"],
+      "scope": [
+        "support.class.component.js.jsx",
+        "support.class.component.ts.tsx",
+        "entity.name.tag.js.jsx",
+        "entity.name.tag.ts.tsx"
+      ],
       "settings": {
         "foreground": "#F86AA3",
         "fontStyle": "italic"
@@ -1826,6 +1906,5 @@
         "fontStyle": ""
       }
     }
-  ],
-  "uuid": "32bd64fa-d60a-4858-a5fc-5164cc49a2b8"
+  ]
 }
