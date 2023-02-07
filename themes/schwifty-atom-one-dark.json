@@ -1434,9 +1434,7 @@
       "name": "[VSCODE-CUSTOM] React Component",
       "scope": [
         "support.class.component.js.jsx",
-        "support.class.component.ts.tsx",
-        "entity.name.tag.js.jsx",
-        "entity.name.tag.ts.tsx"
+        "support.class.component.ts.tsx"
       ],
       "settings": {
         "foreground": "#E06C75",
