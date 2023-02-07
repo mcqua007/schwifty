@@ -1785,6 +1785,14 @@
       }
     },
     {
+      "name": "[VSCODE-CUSTOM] React Component",
+      "scope": ["support.class.component.js.jsx", "support.class.component.ts.tsx", "entity.name.tag.js.jsx", "entity.name.tag.ts.tsx"],
+      "settings": {
+        "foreground": "#F86AA3",
+        "fontStyle": "italic"
+      }
+    },
+    {
       "name": "[VSCODE-CUSTOM] Schwifty Italic",
       "scope": [
         "comment",
