@@ -11,11 +11,11 @@
     "theme": "dark"
   },
   "scripts": {
-    "pub": "npm version patch --force && vsce publish patch"
+    "pub": "npm version patch --force && vsce publish"
   },
   "displayName": "Schwifty One Dark",
   "description": "Schwifty One Dark, a simple VS Code theme based on Atom One Dark Theme. The colors are a bit different and this theme gives you bit more (bracket matching colors, terminal syntax highlighting, italics, etc...). I have also added the original Atom One Dark theme with all of these additions. Get schwifty!",
-  "version": "1.4.13",
+  "version": "1.4.14",
   "engines": {
     "vscode": "^1.48.0"
   },
