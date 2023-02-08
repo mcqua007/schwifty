@@ -1862,7 +1862,11 @@
     {
       "name": "[VSCODE-CUSTOM] React Component",
       "scope": [
+        "support.class.component.js",
+        "support.class.component.jsx",
         "support.class.component.js.jsx",
+        "support.class.component.ts",
+        "support.class.component.tsx",
         "support.class.component.ts.tsx"
       ],
       "settings": {
